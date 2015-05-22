@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+#header {
+    display: block;
+    background-image: url("./images/wood1.jpg");
+    position: relative;
+    margin: -10px 0 -60px -10px;
+}
+
+#blinds1 {
+    background: url("./images/blinds1.jpg");
+    border-radius: 100%;
+    border: solid white 4px;
+    position: relative;
+    left: 150px;
+    top: 10px
+}
+
+#room {
+    background: url("./images/room.jpg");
+    position: relative;
+    margin: 80px 0px 0 350px;
+}
+
+#container {
+    display: block;
+    position: absolute;
+    margin: -30px 25px 50px 1px;
+    padding: 35px 800px 250px 5px;
+}
+
+#Content {
+    position: absolute;
+    display: block;
+    margin: 0 -70px 0 350px;
+    padding: 0px -40px 25px 50px;
+}
+
+#leftText {
+    max-width: 150px;
+    margin: 0 0 0 150px
+}
+
+h1 {
+    max-width: 550px;
+    font-style: bold;
+    font-size: 2.3em;
+}
+
+h2 {
+    border-right: 1px solid #000000;
+    width: 140px;
+    font-size: 1em;
+    font-style: bold;
+    border-style:
+}
+
+h3 {
+    color: rgb(134, 134, 134);
+    font-size: .8em;
+}
